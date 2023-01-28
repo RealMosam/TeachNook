@@ -8,9 +8,9 @@ for i in my_list:
 
 # DICTIONARY
 my_dict = {
-  "brand": "Ford",
-  "model": "Mustang",
-  "year": 1964
+"brand": "Ford",
+"model": "Mustang",
+"year": 1964
 }
 
 print(my_dict)
