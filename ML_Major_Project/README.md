@@ -5,4 +5,4 @@ For running this project:
 2. Run "main.py" in any Python IDE (I prefer PyCharm IDE)
 
 Thank you!
-Connect with me at my GitHub --- [My GitHub](www.github.com/RealMosam)
+Connect with me at my GitHub [My GitHub](https://github.com/RealMosam)
